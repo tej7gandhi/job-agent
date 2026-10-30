@@ -1,0 +1,41 @@
+{
+  "name": "Your Name",
+  "title": "Software Engineer",
+  "location": "New York, NY",
+  "target_roles": [
+    "software engineer",
+    "backend engineer",
+    "full stack engineer"
+  ],
+  "must_haves": [
+    "python",
+    "api",
+    "sql"
+  ],
+  "nice_to_haves": [
+    "aws",
+    "docker",
+    "fastapi",
+    "react"
+  ],
+  "avoid": [
+    "senior staff",
+    "leadership",
+    "sales"
+  ],
+  "work_authorization": "authorized",
+  "salary_floor": 0,
+  "remote_only": false,
+  "hybrid_ok": true,
+  "locations_ok": [
+    "new york",
+    "remote",
+    "united states"
+  ],
+  "resume_highlights": [
+    "Built production APIs",
+    "Improved performance and reliability",
+    "Worked cross-functionally with product and design"
+  ],
+  "bio": "A concise 2-3 sentence summary of your background."
+}
