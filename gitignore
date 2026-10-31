@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.venv/
+venv/
+env/
+
+# Packaging / tooling
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local config and secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Job agent runtime data
+profile.json
+jobs.json
+applications.json
+greenhouse_jobs.json
+lever_jobs.json
+pipeline.csv
